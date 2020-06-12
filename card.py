@@ -88,3 +88,4 @@ class Game:
 
 main_game = Game(["Jan", "Adam"], ["Nowak", "Kowalski"], ["M", "M"])
 main_game.gameplay()
+print("---")
